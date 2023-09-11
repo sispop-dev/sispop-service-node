@@ -71,14 +71,15 @@ Number of additional contributors [1-3] (B/Back/C/Cancel): 3
 The next step is to enter the address that you want to use for the service node and the address that will receive the **1650 SISPOP**
 
 ```java
-Enter the sispop address for the operator (B/Back/C/Cancel):
+Enter the sispop address for the operator (B/Back/C/Cancel): 43....your-address...
 ```
+Once you tap enter it would output some thing like the below code
 
+```java
+register_service_node 4294967292 49g7Layd4PyDYTh76txXvNEQ7VwV3wDUc28ZipomrKeGWiaYgQenqExDEdga3cgmAiWz86DYDzPZxeL947SxE9caN22NP7g 4294967292 100.000000000 1535677391 ec3895ea70a4a91b5ec4b5e1df96a45e07046f1fb0123c754d98fb2d70f4529d 5bb35d7b8ab1acb943bc47913ada8f9d2e6d6e22264e57484a04c1bbfd461f0ee2e5435454cd9b7059b221eb506ce9ea4537ddd9faf1f1757e0ef611a41c0609
+```
+the above code would be put in your **sispop-wallet-cli** or Use your electron GUI wallet and once you do that it would register your service node and you will earn **1650 SISPOP** per block.
 
-## Start the Service Node:
-
-Start your Sispop Service Node by running the appropriate command.
-Monitor the logs to ensure everything is running smoothly.
 
 ## Monitor and Maintain:
 
