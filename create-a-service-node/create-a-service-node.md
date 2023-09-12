@@ -80,6 +80,11 @@ register_service_node 4294967292 49g7Layd4PyDYTh76txXvNEQ7VwV3wDUc28ZipomrKeGWia
 ```
 the above code would be put in your **sispop-wallet-cli** or Use your electron GUI wallet and once you do that it would register your service node and you will earn **1650 SISPOP** per block.
 
+Also you can simply select a ``NO`` from the below to make it totally open 
+
+```java
+Do you want to reserve portions of the stake for other specific contributors? (Y/Yes/N/No/B/Back/C/Cancel): n
+```
 
 ## Monitor and Maintain:
 
